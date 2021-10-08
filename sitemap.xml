@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://junfei-wan.github.io/tags/index.html</loc>
+    
+    <lastmod>2021-10-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://junfei-wan.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-10-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://junfei-wan.github.io/about/index.html</loc>
+    
+    <lastmod>2021-10-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://junfei-wan.github.io/2021/09/25/hello-world/</loc>
     
     <lastmod>1985-10-26</lastmod>
